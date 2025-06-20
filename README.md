@@ -1,11 +1,8 @@
 ---
-layout: default
-title: "Welcome to My Site"
-description: "Personal GitHub Pages site"
+title: "My GitHub Page"
+description: "Automatically generated page"
 ---
 
-# Welcome to my GitHub Pages site
+# Welcome
 
-This page was automatically generated with Jekyll and SEO support.
-
-Edit this README.md file to update your content.
+This page was created automatically.
