@@ -1,6 +1,2 @@
-title: "unitec2021's Personal Site"
-description: "GitHub Pages site"
-baseurl: ""
-url: ""
 plugins:
   - jekyll-seo-tag
